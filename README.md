@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **ML, SQL, Python**
 
-- 📫 How to reach me **arpitathakur7521@gmial.com**
+- 📫 How to reach me **arpitathakur7521@gmail.com**
 
 - ⚡ Fun fact **Playing with data and it never lies to me.**
 
